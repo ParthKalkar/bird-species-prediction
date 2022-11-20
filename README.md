@@ -36,5 +36,19 @@ We can further tune the hyperparameters of this model to reach higher accuracy. 
 ## Prediction
 ![image](https://user-images.githubusercontent.com/50231750/202908715-1448844e-0674-4be8-aba9-0e1dc2fe8f27.png)
 
+## Interface
+![Screenshot from 2022-11-20 17-51-26](https://user-images.githubusercontent.com/50231750/202909592-8280519a-8ad2-4791-84c6-7e6a31af4826.png)
+
+## Input
+![Screenshot from 2022-11-20 17-51-39](https://user-images.githubusercontent.com/50231750/202909616-dfcebc13-734e-4d2a-812e-5ad606ae751f.png)
+
+## Output
+![Screenshot from 2022-11-20 18-01-31](https://user-images.githubusercontent.com/50231750/202909632-35fb4fd4-e13b-4f10-a7d1-fff2366104af.png)
+
+
+![Screenshot from 2022-11-20 18-02-10](https://user-images.githubusercontent.com/50231750/202909642-fcbec3b4-02bb-4107-ad4a-05a8cc7da706.png)
+
+
+
 ## Conclusion
 We started with loading the dataset into google colab using google drive and visualizing the images. Normalizing is an important step when working with any type of dataset. After that we created a CNN Model which is further used for predicting the bird species using the image supplied to model.
