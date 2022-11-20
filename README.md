@@ -26,3 +26,15 @@ We can further tune the hyperparameters of this model to reach higher accuracy. 
 1. Python
 2. Keras
 3. Tensorflow
+
+## Accuracy Curve
+![image](https://user-images.githubusercontent.com/50231750/202908668-69a08861-fac8-4f94-845f-5e50c407e891.png)
+
+## Loss Curve
+![image](https://user-images.githubusercontent.com/50231750/202908675-149158b4-8044-4dc0-9761-172f77d541f1.png)
+
+## Prediction
+![image](https://user-images.githubusercontent.com/50231750/202908715-1448844e-0674-4be8-aba9-0e1dc2fe8f27.png)
+
+## Conclusion
+We started with loading the dataset into google colab using google drive and visualizing the images. Normalizing is an important step when working with any type of dataset. After that we created a CNN Model which is further used for predicting the bird species using the image supplied to model.
